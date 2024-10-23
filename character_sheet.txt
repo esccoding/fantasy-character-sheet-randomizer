@@ -1,0 +1,18 @@
+{<>} Stat Rolls {<>}
+STR: [3, 4, 2]
+DEX: [2, 4, 6]
+CON: [3, 3, 6]
+INT: [4, 4, 2]
+WIS: [2, 4, 3]
+
+{@} Character Sheet {@}
+Race: Tiefling
+Class: Paladin
+Alignment: Lawful Evil
+Affiliation: Cult of Jairus
+STR: 9
+DEX: 12
+CON: 12
+INT: 10
+WIS: 9
+CHA: 20
